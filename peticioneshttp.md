@@ -8,7 +8,7 @@ Una petición HTTP es la acción por parte del navegador para solicitar un recur
 
 Recordad esta foto que vimos en el prework:
 
-![Untitled](%F0%9F%9F%A2%20SESIO%CC%81N%2011%20-%20JS(V)%203824a57576bd4a3f9757bb86accfb322/Untitled%202.png)
+![http](recursos/Untitled%202.png)
 
 Las peticiones que nos interesan ahora a nosotros son las peticiones AJAX, que son las peticiones HTTP que se realizan desde Javascript y que podemos tratar antes de que se muestren por pantalla. 
 
