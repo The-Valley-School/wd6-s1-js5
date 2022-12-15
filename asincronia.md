@@ -8,7 +8,7 @@ A lo largo de las sesiones hemos ido trabajando con javascript y todas las tarea
 
 En esta sesión veremos que en determinados momentos será necesario realizar funciones asíncronas, no secuenciales. Javascript, al ser un lenguaje no bloqueante, las tareas no se quedan bloqueadas, si no que siguen el resto de tareas.
 
-![asincronia2](recursos/Untitled%202.png)
+![asincronia2](recursos/Untitled%201.png)
 
 Este ejemplo es sencillo y únicamente queda bloqueada una tarea, pero a la hora de desarrollar programas veremos que hay varias que se entrelazarán y será necesario mecanismos que controlen esto, como pueden ser:
 
